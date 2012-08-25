@@ -1,0 +1,2 @@
+lat	lon	title	description	icon	iconSize	iconOffset
+47.39055	-4.558675	ESTELLE	Latitude: 47.39055<br>Longitude: -4.558675<br><br>Destination:<br>SAN SEBASTIAN<br><br>Last update:<br>1d 23h 58min ago<br><br><small>Data Source: <a href="http://www.marinetraffic.com/">Marine Traffic.com</a>.</small>	img/sailboat.png	24,24	0,-24
